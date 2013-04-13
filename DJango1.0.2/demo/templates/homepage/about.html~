@@ -1,0 +1,24 @@
+<!--{% extends "homepage/index.html" %}-->
+<html>
+<head>
+<title>About Us</title>
+</head>
+<body><center>
+<h3>About Us</h3>
+<img src="55440_373598976051609_372155514_o.jpg" width="250" height="250"/></br>
+Mr.Mallinath S.Gobbur</br>
+gobburms@gmail.com</br>
+8087404385</br></br>
+
+<img src="178946_395059160571136_1293986506_n.jpg" width="250" height="250"/></br>
+Mr.Suraj R.Mane</br>
+suraj.mane05@gmail.com</br>
+8237023620</br></br>
+
+<img src="190844_165068203546978_6444353_o.jpg" width="200" height="250"/></br>
+Mr.Yogesh S.Mhetre</br>
+mhetreys@gmail.com</br>
+8055141914</br></br>
+</center>
+</body>
+</html>

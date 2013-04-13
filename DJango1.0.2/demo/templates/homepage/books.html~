@@ -1,0 +1,18 @@
+{% extends "homepage/index.html" %}
+<html>
+<head>
+<title>Books</title>
+</head>
+<body><center>
+</br></br></br></br></br>
+<h3>Books List</h3>
+Learning Python Programming Language Through Video Lectures</br></br>
+Learning Python Design Patterns Through Video Lectures</br></br>
+Python Yesterday, Today and Tomorrow</br></br>
+Python Library for Google Search</br></br>
+Python Library for Searching Adwords</br></br>
+Python Library for Google Sets</br></br>
+Python Library for Google Translate</br></br>
+</center>
+</body>
+</html>
