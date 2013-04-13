@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>My Blog Index</title>
+</head>
+<body>
+<center><font size="20",color="red", face="Times New Roman">Web Development using DJango in Python</br></br>About Peteris Krumins</font>
+ </br></br></br></br></br>
+<img src="flower-blur-510x130.jpg" width="1200" height="200" ></center>
+<table>
+<tr>
+<td><img src="peteris-krumins-sea.jpg" width="300" height="600" ></td>
+<td>
+
+<p>My name is Peteris Krumins, I'm 28 and I love mathematics, physics and computer science. I live in Oakland, CA and I have a degree in physics. I am also a strong chess player and I have over 10 years of programming experience in 7 companies.</p>
+</br>
+<p>There is an awesome reason why I didn't study computer science. By the time I graduated high school I already had several years of real-world experience working as a Perl and PHP developer, as a Linux syadmin at an ISP, and as C and C++ programmer at an embedded systems company. I also did tons of contract work in just about any language you can imagine. </p>
+</br>
+<p>I am a self-taught hacker. I learned everything on my own just by doing it, which gave me unique skills in computing. If I had chosen to study computer science, I'd have wasted so much time studying what I already knew. Instead I chose physics and now I am pretty good at it, too.</p>
+</br>
+
+<p>As of March 2010, I am working on my own startup together with James Halliday in the area of virtual machines and cloud computing. We're making virtual machines available on the web and fun to use. See the announcement post "I am doing a startup - StackVM." In October 2010 we both moved to Silicon Valley to get the startup going and in November 2010 we announced out first product that's built on top of StackVM and it's called Browserling. Browserling is interactive browser testing service that allows you to use all the browsers from your browser.</p>
+</br> 
+<p>The browsers run in virtual machines and are presented in your browser through StackVM technology. In February 2011 we incorporated Browserling INC, and in March 2011 we raised our first seed round, which was lead by David Weekly. He interviewed us on the day we raised the round, listen to the interview on The David Weekly Podcast.</p></td>
+</tr?</table></center>
+</body>
+</html>
